@@ -1,6 +1,5 @@
 # TEST_project
 
 -> modifier le projet ( github )
-
-## TEST
+##  TEST
 -> modifier via le terminal ( clone, push, pull )
